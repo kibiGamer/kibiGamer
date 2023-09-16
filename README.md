@@ -1,9 +1,9 @@
 Español:
 • Hola (^-^)/
-• Github para códigos y comandos para aoi.js
+• Github del kibi para códigos y comandos para aoi.js
 
 English:
-• Github for codes and commands for aoi.js
+• kibi github for codes and commands made for aoi.js
 
 <!---
 kibiGamer/kibiGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
